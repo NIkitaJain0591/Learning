@@ -6,6 +6,7 @@
   <li>Dependency on other classes</li>
   <li>Impact on other components</li>
   <li>Negative and positive test cases</li>
+  <li>Check if any sitetext is required</li>
 </ul>
 <ul><b>Development checklist</b>
   <li>Null check for arguments and variables</li>
@@ -28,7 +29,7 @@
   <li>Components & templates should be named according to philips standards</li>
 </ul>
 <ul><b>AEM checklist</b>
-  <li>Check if the path is a valid path before performing some operation on path</li>
+  <li>Check if the path is a valid path before performing any operation on path</li>
   <li>Before getting a property, check if the node has the property</li>
   <li>Configure proper values for different runmodes</li>
 </ul>
@@ -38,6 +39,7 @@
   <li>Build the module in Dev</li>
   <li>Execute the test cases for multiple locales</li>
   <li>If all test cases are success, raise a PR to master attaching the workitem</li>
+  <li>Add a demo page link to the PR.</li>
   <li>Before assigning the story to QA, perform one round of testing in tst environment</li>
 </ul>
 
