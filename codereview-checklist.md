@@ -31,6 +31,8 @@
 <ul><b>AEM checklist</b>
   <li>Check if the path is a valid path before performing any operation on path</li>
   <li>Before getting a property, check if the node has the property</li>
+  <li>Check if api call is already present before making a new call</li>
+  <li>If ResourceResolver is used, close the resolver at the end of the operation</li>
   <li>Configure proper values for different runmodes</li>
 </ul>
 <ul><b>Post development checklist</b>
