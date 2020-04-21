@@ -40,6 +40,7 @@
   <li>Add proper commit message</li>
   <li>Build the module in Dev</li>
   <li>Execute the test cases for multiple locales</li>
+  <li>perform sanity of the component</li>
   <li>If all test cases are success, raise a PR to master attaching the workitem</li>
   <li>Add a demo page link to the PR.</li>
   <li>Before assigning the story to QA, perform one round of testing in tst environment</li>
