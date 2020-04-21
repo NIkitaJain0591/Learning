@@ -10,6 +10,7 @@
 <ul><b>Development checklist</b>
   <li>Null check for arguments and variables</li>
   <li>Method should perform only one operation - use sub methods if required</li>
+  <li>backward compatibility</li>
   <li>No hard coding - use contants(check if already available)</li>
   <li>Avoid multiple if/else blocks(use ternry operators if possible)</li>
   <li>Avoid unneccessary loops</li>
@@ -17,7 +18,8 @@
   <li>Code should be formatted</li>
   <li>Follow naming conventions</li>
   <li>Avoid unnecessary comments</li>
-  <li>Aavoid unnecessary logs</li>
+  <li>Avoid unnecessary log statements</li>
+  <li>Check for sonar issues</li>
   <li>Write JUnit test cases if required</li>
 </ul>
 <ul><b>Architecture</b>
