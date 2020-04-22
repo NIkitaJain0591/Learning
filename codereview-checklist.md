@@ -10,7 +10,7 @@
 </ul>
 <ul><b>Development checklist</b>
   <li>Null check for arguments and variables</li>
-  <li>Method should perform only one operation - use sub methods if required</li>
+  <li>Method should perform only one task - use sub methods if required</li>
   <li>Add proper method comments</li>
   <li>backward compatibility</li>
   <li>No hard coding - use contants(check if already available)</li>
